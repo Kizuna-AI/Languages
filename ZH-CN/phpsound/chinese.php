@@ -1037,19 +1037,19 @@ $LNG['ta_years'] = '%d years';
 $LNG['ago'] = 'ago';
 
 // MONTHS
-$LNG['month'] = 'Month';
-$LNG['year'] = 'Year';
-$LNG['day'] = 'Day';
-$LNG['month_1'] = 'January';
-$LNG['month_2'] = 'February';
-$LNG['month_3'] = 'March';
-$LNG['month_4'] = 'April';
-$LNG['month_5'] = 'May';
-$LNG['month_6'] = 'June';
-$LNG['month_7'] = 'July';
-$LNG['month_8'] = 'August';
-$LNG['month_9'] = 'September';
-$LNG['month_10'] = 'October';
-$LNG['month_11'] = 'November';
-$LNG['month_12'] = 'December';
+$LNG['month'] = '月';
+$LNG['year'] = '年';
+$LNG['day'] = '日';
+$LNG['month_1'] = '1月';
+$LNG['month_2'] = '2月';
+$LNG['month_3'] = '3月';
+$LNG['month_4'] = '4月';
+$LNG['month_5'] = '5月';
+$LNG['month_6'] = '6月';
+$LNG['month_7'] = '7月';
+$LNG['month_8'] = '8月';
+$LNG['month_9'] = '9月';
+$LNG['month_10'] = '10月';
+$LNG['month_11'] = '11月';
+$LNG['month_12'] = '12月';
 ?>
