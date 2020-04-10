@@ -1019,22 +1019,22 @@ $LNG['ok'] = 'OK';
 $LNG['more_info'] = 'More Info';
 
 // TIME
-$LNG['just_now'] = 'just now';
-$LNG['ta_second'] = 'a second';
-$LNG['ta_seconds'] = '%d seconds';
-$LNG['ta_minute'] = 'a minute';
-$LNG['ta_minutes'] = '%d minutes';
-$LNG['ta_hour'] = 'an hour';
-$LNG['ta_hours'] = '%d hours';
-$LNG['ta_day'] = 'a day';
-$LNG['ta_days'] = '%d days';
-$LNG['ta_week'] = 'a week';
-$LNG['ta_weeks'] = '%d weeks';
-$LNG['ta_month'] = 'a month';
-$LNG['ta_months'] = '%d months';
-$LNG['ta_year'] = 'a year';
-$LNG['ta_years'] = '%d years';
-$LNG['ago'] = 'ago';
+$LNG['just_now'] = '刚才';
+$LNG['ta_second'] = '1秒';
+$LNG['ta_seconds'] = '%d 秒';
+$LNG['ta_minute'] = '1分钟';
+$LNG['ta_minutes'] = '%d 分钟';
+$LNG['ta_hour'] = '1小时';
+$LNG['ta_hours'] = '%d 小时';
+$LNG['ta_day'] = '1天';
+$LNG['ta_days'] = '%d 天';
+$LNG['ta_week'] = '1周';
+$LNG['ta_weeks'] = '%d 周';
+$LNG['ta_month'] = '1月';
+$LNG['ta_months'] = '%d 月';
+$LNG['ta_year'] = '1年';
+$LNG['ta_years'] = '%d 年';
+$LNG['ago'] = '前';
 
 // MONTHS
 $LNG['month'] = '月';
