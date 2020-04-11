@@ -423,85 +423,85 @@ $LNG['sub_email_new_friend'] = 'Receive emails when someone adds you as friend';
 $LNG['user_ttl_sidebar'] = 'Settings';
 
 // ADMIN PANEL //
-$LNG['admin_login'] = 'Admin Login';
-$LNG['admin_user_name'] = 'Username';
-$LNG['desc_admin_user'] = 'Type in your Admin Username';
-$LNG['admin_pass'] = 'Password';
-$LNG['desc_admin_pass'] = 'Type in your Admin Password';
-$LNG['admin_menu_logout'] = 'Log Out';
-$LNG['admin_ttl_sidebar'] = 'Menu';
-$LNG['admin_menu_dashboard']			= $LNG['admin_ttl_dashboard']		= 'Dashboard';
-$LNG['admin_menu_site_settings'] 		= $LNG['admin_ttl_site_settings']	= 'Site Settings';
-$LNG['admin_menu_security']				= $LNG['admin_ttl_security']		= 'Password';
-$LNG['admin_menu_manage_users'] 		= $LNG['admin_ttl_users']			= 'Manage Users';
-$LNG['admin_menu_stats'] 				= $LNG['admin_ttl_stats'] 			= 'Statistics';
-$LNG['admin_menu_users_settings'] 		= $LNG['admin_ttl_users_settings']	= 'Users Settings';
-$LNG['admin_menu_social'] 				= $LNG['admin_ttl_social']			= 'Social Login';
-$LNG['admin_menu_pro'] 					= $LNG['admin_ttl_pro']				= 'Pro Accounts';
-$LNG['admin_menu_themes'] 				= $LNG['admin_ttl_themes']			= 'Themes';
-$LNG['admin_menu_languages']			= $LNG['admin_ttl_languages'] 		= 'Languages';
-$LNG['admin_menu_manage_payments']		= $LNG['admin_ttl_payments']		= 'Manage Payments';
-$LNG['admin_menu_manage_reports']		= $LNG['admin_ttl_reports']			= 'Manage Reports';
-$LNG['admin_menu_manage_ads'] 			= $LNG['admin_ttl_ads']				= 'Manage Ads';
-$LNG['admin_menu_manage_categories']	= $LNG['admin_ttl_categories']		= 'Manage Categories';
-$LNG['admin_menu_info_pages']			= $LNG['admin_ttl_info_pages'] 		= 'Info Pages';
-$LNG['admin_menu_newsletter']			= $LNG['admin_ttl_newsletter'] 		= 'Newsletter';
-$LNG['admin_menu_license']		    	= $LNG['admin_ttl_license'] 		= 'License';
+$LNG['admin_login'] = '管理登录';
+$LNG['admin_user_name'] = '用户名';
+$LNG['desc_admin_user'] = '请输入管理用户名';
+$LNG['admin_pass'] = '密码';
+$LNG['desc_admin_pass'] = '请输入管理密码';
+$LNG['admin_menu_logout'] = '登出';
+$LNG['admin_ttl_sidebar'] = '菜单';
+$LNG['admin_menu_dashboard']			= $LNG['admin_ttl_dashboard']		= '仪表盘';
+$LNG['admin_menu_site_settings'] 		= $LNG['admin_ttl_site_settings']	= '网站';
+$LNG['admin_menu_security']				= $LNG['admin_ttl_security']		= '密码';
+$LNG['admin_menu_manage_users'] 		= $LNG['admin_ttl_users']			= '用户';
+$LNG['admin_menu_stats'] 				= $LNG['admin_ttl_stats'] 			= '统计';
+$LNG['admin_menu_users_settings'] 		= $LNG['admin_ttl_users_settings']	= '用户设置';
+$LNG['admin_menu_social'] 				= $LNG['admin_ttl_social']			= '社交账号登录';
+$LNG['admin_menu_pro'] 					= $LNG['admin_ttl_pro']				= '专业版账号';
+$LNG['admin_menu_themes'] 				= $LNG['admin_ttl_themes']			= '主题';
+$LNG['admin_menu_languages']			= $LNG['admin_ttl_languages'] 		= '语言';
+$LNG['admin_menu_manage_payments']		= $LNG['admin_ttl_payments']		= '付款';
+$LNG['admin_menu_manage_reports']		= $LNG['admin_ttl_reports']			= '举报';
+$LNG['admin_menu_manage_ads'] 			= $LNG['admin_ttl_ads']				= '广告';
+$LNG['admin_menu_manage_categories']	= $LNG['admin_ttl_categories']		= '类别';
+$LNG['admin_menu_info_pages']			= $LNG['admin_ttl_info_pages'] 		= '信息页';
+$LNG['admin_menu_newsletter']			= $LNG['admin_ttl_newsletter'] 		= '简讯';
+$LNG['admin_menu_license']		    	= $LNG['admin_ttl_license'] 		= '许可证';
 
-$LNG['admin_ttl_title'] = 'Title';
+$LNG['admin_ttl_title'] = '标题';
 
-$LNG['logo'] = 'Logo';
+$LNG['logo'] = '图标';
 
-$LNG['admin_ttl_captcha'] = 'Captcha';
-$LNG['admin_sub_captcha'] = 'Enable captcha at registration';
+$LNG['admin_ttl_captcha'] = '验证码';
+$LNG['admin_sub_captcha'] = '在注册时需要验证码';
 
-$LNG['admin_ttl_timestamp'] = 'Timestamp';
-$LNG['admin_sub_timestamp'] = 'The Tracks, Comments and Chat timestamps type';
+$LNG['admin_ttl_timestamp'] = '时间戳';
+$LNG['admin_sub_timestamp'] = '音乐、评论、聊天的时间戳格式';
 
-$LNG['admin_ttl_timezone'] = 'Timezone';
-$LNG['admin_sub_timezone'] = 'Timezone supported by PHP';
+$LNG['admin_ttl_timezone'] = '时区';
+$LNG['admin_sub_timezone'] = '基于PHP的时区设置';
 
-$LNG['admin_ttl_tracks_perpage'] = 'Tracks';
-$LNG['admin_sub_tracks_perpage'] = 'The number of tracks per page';
+$LNG['admin_ttl_tracks_perpage'] = '音乐';
+$LNG['admin_sub_tracks_perpage'] = '每页的音乐数';
 
-$LNG['admin_ttl_com_perpage'] = 'Comments';
-$LNG['admin_sub_com_perpage'] = 'The number of comments per page';
+$LNG['admin_ttl_com_perpage'] = '评论';
+$LNG['admin_sub_com_perpage'] = '每页的评论数';
 
-$LNG['admin_ttl_chat_perpage'] = 'Chat';
-$LNG['admin_sub_chat_perpage'] = 'The number of chat conversations per page';
+$LNG['admin_ttl_chat_perpage'] = '聊天';
+$LNG['admin_sub_chat_perpage'] = '每页的聊天信息条数';
 
-$LNG['admin_ttl_permalinks'] = 'Permalinks';
-$LNG['admin_sub_permalinks'] = 'Enable permalinks URL structure (example.com/profile/username)';
+$LNG['admin_ttl_permalinks'] = '永久链接';
+$LNG['admin_sub_permalinks'] = '启用用户主页永久链接(example.com/profile/username)';
 
-$LNG['admin_ttl_email_activation'] = 'Email Activation';
-$LNG['admin_sub_email_activation'] = 'Require the account to be activated via email';
+$LNG['admin_ttl_email_activation'] = '邮箱激活';
+$LNG['admin_sub_email_activation'] = '新注册账号需要通过邮箱验证';
 
-$LNG['admin_ttl_volume'] = 'Volume';
-$LNG['admin_sub_volume'] = 'Set the default volume';
+$LNG['admin_ttl_volume'] = '音量';
+$LNG['admin_sub_volume'] = '设置默认音量';
 
-$LNG['admin_ttl_nperpage'] = 'Notifications';
-$LNG['admin_sub_nperpage'] = 'The number of notifications to be shown (Notifications Page)';
+$LNG['admin_ttl_nperpage'] = '通知';
+$LNG['admin_sub_nperpage'] = '每页显示的通知数';
 
-$LNG['admin_ttl_message_limit'] = 'Message Limit';
-$LNG['admin_sub_message_limit'] = 'The number of characters allowed on comments and chat messages';
+$LNG['admin_ttl_message_limit'] = '信息字数限制';
+$LNG['admin_sub_message_limit'] = '评论和聊天的限制字数';
 
-$LNG['admin_ttl_email_reg'] = 'Email on Registration';
-$LNG['admin_sub_email_reg'] = 'Email users at registration';
+$LNG['admin_ttl_email_reg'] = '注册时发送邮件';
+$LNG['admin_sub_email_reg'] = '注册时向用户发送邮件';
 
-$LNG['admin_ttl_notificationsn'] = 'Events Notifications';
-$LNG['admin_sub_notificationsn'] = 'The update interval to check for new events notifications (in seconds)';
+$LNG['admin_ttl_notificationsn'] = '事件通知';
+$LNG['admin_sub_notificationsn'] = '检查新事件通知的刷新间隔（秒）';
 
-$LNG['admin_ttl_chatrefresh'] = 'Chat Refresh';
-$LNG['admin_sub_chatrefresh'] = 'The time how often the chat window updates with new messages (in seconds)';
+$LNG['admin_ttl_chatrefresh'] = '聊天刷新';
+$LNG['admin_sub_chatrefresh'] = '聊天窗口更新新消息的频率（秒）';
 
-$LNG['admin_ttl_timeonline'] = 'Online Users';
-$LNG['admin_sub_timeonline'] = 'The amount of time to be considered online since the last user\'s activity (in seconds)';
+$LNG['admin_ttl_timeonline'] = '在线时长';
+$LNG['admin_sub_timeonline'] = '自上次用户活动后被视为在线的时间（秒）';
 
-$LNG['admin_ttl_image_profile'] = 'Profile Image Size';
-$LNG['admin_sub_image_profile'] = 'Image size allowed to upload (profile cover and avatar) (in MB)';
+$LNG['admin_ttl_image_profile'] = '主页图片限制';
+$LNG['admin_sub_image_profile'] = '个人资料主页封面和头像允许上传的图像大小（MB）';
 
-$LNG['admin_ttl_image_format'] = 'Profile Image Format';
-$LNG['admin_sub_image_format'] = 'Image format allowed for upload (profile cover and avatar), use only gif,png,jpg,jpeg other formats are not supported';
+$LNG['admin_ttl_image_format'] = '主页图片格式';
+$LNG['admin_sub_image_format'] = '个人资料主页封面和头像允许上传的图像格式,仅有gif,png,jpg,jpeg可用,其他格式不被支持';
 
 $LNG['admin_ttl_cover_size'] = 'Track Cover Size';
 $LNG['admin_sub_cover_size'] = 'Image size allowed to upload for track covers (in MB)';
