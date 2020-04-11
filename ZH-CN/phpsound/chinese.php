@@ -117,17 +117,17 @@ $LNG['ttl_confirm_email'] = '激活您的账号';
 $LNG['confirm_email'] = $LNG['email_hello'].'感谢加入 <strong>%s</strong>. 请 <a href="%s" target="_blank">点击此处</a> 来激活您的账号.'.$LNG['email_footer_gen'];
 
 // ADMIN PANEL //
-$LNG['general_link'] = 'General';
-$LNG['security_link'] = 'Security';
-$LNG['manage_users'] = 'Manage Users';
+$LNG['general_link'] = '通用';
+$LNG['security_link'] = '安全';
+$LNG['manage_users'] = '用户';
 
-$LNG['theme_install'] = 'To install a new theme, upload it on the <strong>themes</strong> folder';
-$LNG['language_install'] = 'To install a new language, upload it on the <strong>languages</strong> folder';
-$LNG['theme_author_homepage'] = 'Visit the author homepage';
-$LNG['theme_version'] = 'Version';
-$LNG['theme_active'] = 'Active';
-$LNG['theme_activate'] = 'Activate';
-$LNG['by'] = 'By';
+$LNG['theme_install'] = '请将要安装的新主题上传到 <strong>themes</strong> 文件夹';
+$LNG['language_install'] = '请将要安装的新语言上传到 <strong>languages</strong> 文件夹';
+$LNG['theme_author_homepage'] = '访问作者主页';
+$LNG['theme_version'] = '版本';
+$LNG['theme_active'] = '已启用';
+$LNG['theme_activate'] = '启用';
+$LNG['by'] = '由';
 
 // STREAM //
 $LNG['welcome_stream_ttl'] = 'Welcome to your Stream';
