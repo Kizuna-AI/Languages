@@ -231,19 +231,19 @@ $LNG['edit_playlist'] = '编辑播单';
 $LNG['go_back'] = '返回';
 
 // MESSAGES / CHAT //
-$LNG['lonely_here'] = 'It\'s lonely here, how about making some friends?';
-$LNG['write_message'] = 'Write a message...';
-$LNG['chat_too_long'] = 'Sorry, but the maximum characters allowed per chat message is <strong>%s</strong>.';
-$LNG['blocked_by'] = 'The message could not be sent. <strong>%s</strong> blocked you.';
-$LNG['blocked_user'] = 'The message could not be sent. You\'ve blocked <strong>%s</strong>.';
-$LNG['chat_self'] = 'Sorry but we cannot deliver chat messages to yourself.';
-$LNG['chat_no_user'] = 'You must select a user to chat with.';
-$LNG['view_more_conversations'] = 'View more conversations';
-$LNG['block'] = 'Block';
-$LNG['unblock'] = 'Unblock';
-$LNG['conversation'] = 'Conversation';
-$LNG['start_conversation'] = 'You can start a conversation by choosing a person from your friends list.';
-$LNG['send_message'] = 'Send Message';
+$LNG['lonely_here'] = '这里空空如也,去结交朋友吧';
+$LNG['write_message'] = '书写一条信息...';
+$LNG['chat_too_long'] = '每条聊天的字数限制在<strong>%s</strong>字以下';
+$LNG['blocked_by'] = '<strong>%s</strong>屏蔽了您,因此本消息无法发出';
+$LNG['blocked_user'] = '您被封禁<strong>%s</strong>,因此本消息无法发出';
+$LNG['chat_self'] = '请勿给自己发送聊天';
+$LNG['chat_no_user'] = '请选择您的聊天对象';
+$LNG['view_more_conversations'] = '查看更多对话';
+$LNG['block'] = '屏蔽';
+$LNG['unblock'] = '取消屏蔽';
+$LNG['conversation'] = '对话';
+$LNG['start_conversation'] = '您可以选择一个朋友来开始聊天';
+$LNG['send_message'] = '发送';
 
 // UPLOAD / EDIT //
 $LNG['upload_track'] = 'Upload Track';
