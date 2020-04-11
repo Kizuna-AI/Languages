@@ -24,7 +24,7 @@ $LNG['invalid_user_pw'] = '用户名或密码错误';
 $LNG['invalid_captcha'] = '验证码错误';
 $LNG['log_out'] = '登出';
 $LNG['hello'] = '你好';
-$LNG['connect'] = '连接';
+$LNG['connect'] = '登录/注册';
 $LNG['register'] = '注册';
 $LNG['login'] = '登录';
 $LNG['password'] = '密码';
@@ -32,7 +32,7 @@ $LNG['username'] = '用户名';
 $LNG['email'] = '邮箱';
 $LNG['captcha'] = '验证码';
 $LNG['username_or_email'] = '用户名或邮箱';
-$LNG['connect_on'] = '连接 %s';
+$LNG['connect_on'] = '加入 %s';
 $LNG['welcome_desc'] = '一站式分享音乐,联络其他艺术家,探索新内容.';
 $LNG['join_now'] = '立刻加入';
 $LNG['learn_more'] = '了解更多';
@@ -130,7 +130,7 @@ $LNG['theme_activate'] = '启用';
 $LNG['by'] = '由';
 
 // STREAM //
-$LNG['welcome_stream_ttl'] = 'Welcome to your Stream';
+$LNG['welcome_stream_ttl'] = '欢迎来到您的流媒体';
 $LNG['welcome_stream'] = 'All tracks from your friends will appear on this page, start by making new friends.';
 $LNG['leave_comment'] = 'Leave a comment...';
 $LNG['post'] = 'Post';
