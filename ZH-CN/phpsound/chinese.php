@@ -294,133 +294,133 @@ $LNG['license_nd_desc'] = '他人只允许复制，分发，显示和执行您�
 $LNG['license_sa_desc'] = '他人只可在与您规定的许可协议相同协议下发布衍生作品';
 
 // USER PANEL //
-$LNG['user_menu_general'] = 'General';
-$LNG['user_menu_security'] = 'Password';
-$LNG['user_menu_avatar'] = 'Profile';
-$LNG['user_menu_notifications'] = 'Notifications';
-$LNG['user_menu_social'] = 'Social';
-$LNG['user_menu_plan'] = 'Account Plan';
-$LNG['user_menu_blocked'] = $LNG['user_ttl_blocked'] = 'Blocked Users';
-$LNG['user_menu_delete'] = $LNG['user_ttl_delete'] = 'Delete Account';
+$LNG['user_menu_general'] = '通用';
+$LNG['user_menu_security'] = '密码';
+$LNG['user_menu_avatar'] = '简介';
+$LNG['user_menu_notifications'] = '通知';
+$LNG['user_menu_social'] = '社交';
+$LNG['user_menu_plan'] = '账号类型';
+$LNG['user_menu_blocked'] = $LNG['user_ttl_blocked'] = '屏蔽的用户';
+$LNG['user_menu_delete'] = $LNG['user_ttl_delete'] = '删除账号';
 
-$LNG['user_ttl_general'] = 'General Settings';
-$LNG['user_ttl_security'] = 'Password Settings';
-$LNG['user_ttl_avatar'] = 'Profile Settings';
-$LNG['user_ttl_notifications'] = 'Notifications Settings';
-$LNG['user_ttl_social'] = 'Social Networks Profiles';
-$LNG['user_ttl_plan'] = 'Account Plan';
+$LNG['user_ttl_general'] = '通用设置';
+$LNG['user_ttl_security'] = '密码设置';
+$LNG['user_ttl_avatar'] = '简介设置';
+$LNG['user_ttl_notifications'] = '通知设置';
+$LNG['user_ttl_social'] = '社交媒体简介';
+$LNG['user_ttl_plan'] = '账号类型';
 
-$LNG['user_desc_general'] = 'Change account, privacy, location settings.';
-$LNG['user_desc_security'] = 'Change your password.';
-$LNG['user_desc_avatar'] = 'Change your account picture.';
-$LNG['user_desc_cover'] = 'Change your cover picture.';
-$LNG['user_desc_notifications'] = 'Change notifications settings.';
-$LNG['blocked_desc'] = 'Blocked persons can no longer contact you trough messages.';
-$LNG['delete_acc_desc'] = 'Your account will be permanently deleted along with all the related content of it.';
+$LNG['user_desc_general'] = '更改帐户，隐私，位置设置';
+$LNG['user_desc_security'] = '更改您的密码';
+$LNG['user_desc_avatar'] = '更改您的账号图片';
+$LNG['user_desc_cover'] = '更改您的封面图片';
+$LNG['user_desc_notifications'] = '更改通知设置';
+$LNG['blocked_desc'] = '被屏蔽的人将不能再通过私信联系您';
+$LNG['delete_acc_desc'] = '您的帐户及其所有相关内容将被永久删除';
 
-$LNG['ttl_background'] = 'Backgrounds';
-$LNG['sub_background'] = 'Pick a background for your profile';
+$LNG['ttl_background'] = '背景图片';
+$LNG['sub_background'] = '为您的主页选择一张背景图';
 
-$LNG['ttl_first_name'] = 'First Name';
-$LNG['sub_first_name'] = 'Enter your first name';
+$LNG['ttl_first_name'] = '名';
+$LNG['sub_first_name'] = '输入您的名字(不包含姓)';
 
-$LNG['ttl_last_name'] = 'Last Name';
-$LNG['sub_last_name'] = 'Enter your last name';
+$LNG['ttl_last_name'] = '姓';
+$LNG['sub_last_name'] = '输入您的姓';
 
-$LNG['ttl_email'] = 'Email';
-$LNG['sub_email'] = 'Email will not be displayed';
+$LNG['ttl_email'] = '邮箱';
+$LNG['sub_email'] = '邮箱将不会被公开';
 
-$LNG['ttl_country'] = 'Country';
-$LNG['sub_country'] = 'Country you live in';
+$LNG['ttl_country'] = '国家';
+$LNG['sub_country'] = '您居住的国家';
 
-$LNG['ttl_city'] = 'City';
-$LNG['sub_city'] = 'City you live in';
+$LNG['ttl_city'] = '城市';
+$LNG['sub_city'] = '您居住的城市';
 
-$LNG['ttl_website'] = 'Website';
-$LNG['sub_website'] = 'If you have a blog, personal page, enter it';
+$LNG['ttl_website'] = '网站';
+$LNG['sub_website'] = '输入您的网站或个人主页地址(可选)';
 
-$LNG['ttl_profile'] = 'Profile';
-$LNG['sub_profile'] = 'Profile Privacy';
+$LNG['ttl_profile'] = '主页';
+$LNG['sub_profile'] = '主页隐私设置';
 
-$LNG['ttl_offline'] = 'Chat Status';
-$LNG['sub_offline'] = 'The visibility status for the Chat';
+$LNG['ttl_offline'] = '聊天状态';
+$LNG['sub_offline'] = '聊天的可见性状态';
 
 $LNG['ttl_facebook'] = 'Facebook';
-$LNG['sub_facebook'] = 'Your Facebook profile ID.';
+$LNG['sub_facebook'] = '您的Facebook ID';
 
 $LNG['ttl_twitter'] = 'Twitter';
-$LNG['sub_twitter'] = 'Your Twitter profile ID.';
+$LNG['sub_twitter'] = '您的Twitter ID.';
 
 $LNG['ttl_instagram'] = 'Instagram';
-$LNG['sub_instagram'] = 'Your Instagram profile ID.';
+$LNG['sub_instagram'] = '您的Instagram ID.';
 
 $LNG['ttl_youtube'] = 'YouTube';
-$LNG['sub_youtube'] = 'Your YouTube profile ID.';
+$LNG['sub_youtube'] = '您的YouTube ID.';
 
 $LNG['ttl_soundcloud'] = 'SoundCloud';
-$LNG['sub_soundcloud'] = 'Your SoundCloud profile ID.';
+$LNG['sub_soundcloud'] = '您的SoundCloud ID.';
 
 $LNG['ttl_myspace'] = 'MySpace';
-$LNG['sub_myspace'] = 'Your MySpace profile ID.';
+$LNG['sub_myspace'] = '您的MySpace ID.';
 
 $LNG['ttl_tumblr'] = 'Tumblr';
-$LNG['sub_tumblr'] = 'Your Tumblr profile ID.';
+$LNG['sub_tumblr'] = '您的Tumblr ID.';
 
 $LNG['ttl_vimeo'] = 'Vimeo';
-$LNG['sub_vimeo'] = 'Your Vimeo profile ID.';
+$LNG['sub_vimeo'] = '您的Vimeo ID.';
 
 $LNG['ttl_lastfm'] = 'Last.fm';
-$LNG['sub_lastfm'] = 'Your Last.fm profile ID.';
+$LNG['sub_lastfm'] = '您的Last.fm ID.';
 
-$LNG['ttl_description'] = 'Description';
-$LNG['sub_description'] = 'Profile description (160 characters or less)';
+$LNG['ttl_description'] = '描述';
+$LNG['sub_description'] = '个人简介描述 (160 字以下)';
 
-$LNG['ttl_upload_avatar'] = 'Upload the selected profile image';
-$LNG['ttl_delete_avatar'] = 'Delete your current profile image';
+$LNG['ttl_upload_avatar'] = '上传所选的个人资料图片';
+$LNG['ttl_delete_avatar'] = '删除当前的个人资料图片';
 
-$LNG['opt_public'] = 'Public';
-$LNG['opt_private'] = 'Private';
-$LNG['opt_semi_private'] = 'Only subscribed allowed';
+$LNG['opt_public'] = '公开';
+$LNG['opt_private'] = '私密';
+$LNG['opt_semi_private'] = '仅允许订阅者';
 
-$LNG['opt_offline_off'] = 'Online (when available)';
-$LNG['opt_offline_on'] = 'Always Offline';
+$LNG['opt_offline_off'] = '在线';
+$LNG['opt_offline_on'] = '隐身';
 
-$LNG['ttl_new_password'] = 'New Password';
-$LNG['sub_new_password'] = 'Enter a new password (at least 6 characters)';
-$LNG['ttl_repeat_password'] = 'Repeat Password';
-$LNG['sub_repeat_password'] = 'Repeat your new password';
-$LNG['ttl_current_password'] = 'Current Password';
-$LNG['sub_current_password'] = 'Enter your current password';
-$LNG['save_changes'] = 'Save Changes';
-$LNG['ttl_upload_photo'] = 'Upload Photo';
-$LNG['ttl_upload_cover'] = 'Upload Cover';
-$LNG['ttl_delete_photo'] = 'Delete Photo';
+$LNG['ttl_new_password'] = '新密码';
+$LNG['sub_new_password'] = '输入新密码(至少六位)';
+$LNG['ttl_repeat_password'] = '重复密码';
+$LNG['sub_repeat_password'] = '重复您的新密码';
+$LNG['ttl_current_password'] = '当前密码';
+$LNG['sub_current_password'] = '输入您的当前密码';
+$LNG['save_changes'] = '保存更改';
+$LNG['ttl_upload_photo'] = '上传照片';
+$LNG['ttl_upload_cover'] = '上传封面';
+$LNG['ttl_delete_photo'] = '删除照片';
 
-$LNG['ttl_newslettern'] = 'Newsletter';
-$LNG['sub_newslettern'] = 'Receive newsletter emails';
+$LNG['ttl_newslettern'] = '通讯';
+$LNG['sub_newslettern'] = '接收通讯邮件';
 
-$LNG['ttl_notificationl'] = 'Likes Notifications';
-$LNG['sub_notificationl'] = 'Display alert and notifications for <strong>Likes</strong>';
+$LNG['ttl_notificationl'] = '点赞通知';
+$LNG['sub_notificationl'] = '当有人 <strong>喜欢</strong> 您的时候通知您';
 
-$LNG['ttl_notificationc'] = 'Comments Notifications';
-$LNG['sub_notificationc'] = 'Display alert and notifications for <strong>Comments</strong>';
+$LNG['ttl_notificationc'] = '评论通知';
+$LNG['sub_notificationc'] = '当有人 <strong>评论</strong> 您的时候通知您';
 
-$LNG['ttl_notificationd'] = 'Chat Notifications';
-$LNG['sub_notificationd'] = 'Display alert and notifications for <strong>Chats</strong>';
+$LNG['ttl_notificationd'] = '聊天通知';
+$LNG['sub_notificationd'] = '当有人和您 <strong>聊天</strong> 您的时候通知您';
 
-$LNG['ttl_notificationf'] = 'Friends Notifications';
-$LNG['sub_notificationf'] = 'Display alert and notifications for <strong>Friends Additions</strong>';
+$LNG['ttl_notificationf'] = '好友通知';
+$LNG['sub_notificationf'] = '当有人 <strong>添加好友</strong> 的时候通知您';
 
-$LNG['ttl_email_comment'] = 'Emails on Comments';
-$LNG['sub_email_comment'] = 'Receive emails when someone comments on your tracks';
+$LNG['ttl_email_comment'] = '评论邮件通知';
+$LNG['sub_email_comment'] = '当有人评论您的音乐的时候向您发送电子邮件';
 
-$LNG['ttl_email_like'] = 'Emails on Likes';
-$LNG['sub_email_like'] = 'Receive emails when someone likes your tracks';
+$LNG['ttl_email_like'] = '点赞邮件通知';
+$LNG['sub_email_like'] = '当有人喜欢您的音乐的时候向您发送电子邮件';
 
-$LNG['ttl_email_new_friend'] = 'Emails on New Friends';
-$LNG['sub_email_new_friend'] = 'Receive emails when someone adds you as friend';
+$LNG['ttl_email_new_friend'] = '好友邮件通知';
+$LNG['sub_email_new_friend'] = '当有人添加您为好友的时候向您发送电子邮件';
 
-$LNG['user_ttl_sidebar'] = 'Settings';
+$LNG['user_ttl_sidebar'] = '设置';
 
 // ADMIN PANEL //
 $LNG['admin_login'] = '管理登录';
