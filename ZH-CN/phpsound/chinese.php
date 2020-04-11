@@ -3,7 +3,7 @@
 $name = 'Chinese';
 
 // Language Author
-$author = 'Kizuna-AI';
+$author = 'Kizuna-AI Team on Github';
 
 // Language URL
 $url = 'https://github.com/SuzukiHonoka/Languages';
