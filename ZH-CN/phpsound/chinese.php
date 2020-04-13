@@ -771,51 +771,51 @@ $LNG['earnings_last_30'] = '过去30天';
 $LNG['total_earnings'] = '总收入';
 
 // DASHBOARD
-$LNG['admin_panel'] = 'Admin Panel';
-$LNG['at_a_glance'] = 'At a glance';
-$LNG['site_info'] = 'Site Info';
-$LNG['site_version'] = '<a href="%s" target="_blank">%s</a> %s with theme <a href="%s" rel="loadpage">%s</a> enabled';
-$LNG['online_users'] = 'Online Users';
-$LNG['useful_links'] = 'Useful Links';
-$LNG['get_themes'] = 'Get more Themes';
-$LNG['get_languages'] = 'Get more Languages';
+$LNG['admin_panel'] = '管理面板';
+$LNG['at_a_glance'] = '初印象';//???QAQ
+$LNG['site_info'] = '站点信息';
+$LNG['site_version'] = '<a href="%s" target="_blank">%s</a> %s 安装主题 <a href="%s" rel="loadpage">%s</a>';
+$LNG['online_users'] = '在线用户';
+$LNG['useful_links'] = '友情链接';
+$LNG['get_themes'] = '获取更多主题';
+$LNG['get_languages'] = '获取更多语言';
 
 // PLAYER //
-$LNG['mute'] = 'Mute';
-$LNG['unmute'] = 'Unmute';
-$LNG['repeat'] = 'Repeat';
-$LNG['repeat_off'] = 'Repeat Off';
-$LNG['play'] = 'Play';
-$LNG['pause'] = 'Pause';
-$LNG['prev_track'] = 'Previous track';
-$LNG['next_track'] = 'Next track';
-$LNG['volume'] = 'Volume';
+$LNG['mute'] = '静音';
+$LNG['unmute'] = '恢复';
+$LNG['repeat'] = '重复';
+$LNG['repeat_off'] = '顺序';
+$LNG['play'] = '播放';
+$LNG['pause'] = '暂停';
+$LNG['prev_track'] = '上一首';
+$LNG['next_track'] = '下一首';
+$LNG['volume'] = '音量';
 
 // SHARE //
-$LNG['share_facebook'] = 'Share on Facebook';
-$LNG['share_twitter'] = 'Share on Twitter';
-$LNG['share_pinterest'] = 'Share on Pinterest';
-$LNG['share_reddit'] = 'Share on Reddit';
-$LNG['share_tumblr'] = 'Share on Tumblr';
-$LNG['share_linkedin'] = 'Share on Linkedin';
-$LNG['share_email'] = 'Share via email';
-$LNG['share_sn'] = 'Share on Social Networks';
-$LNG['share_url'] = 'Share URL';
-$LNG['embed'] = 'Embed';
-$LNG['embed_code'] = 'Embed Code';
-$LNG['embed_error'] = 'Sorry, we couldn\'t find the requested track.';
+$LNG['share_facebook'] = '分享到 Facebook';
+$LNG['share_twitter'] = '分享到 Twitter';
+$LNG['share_pinterest'] = '分享到 Pinterest';
+$LNG['share_reddit'] = '分享到 Reddit';
+$LNG['share_tumblr'] = '分享到 Tumblr';
+$LNG['share_linkedin'] = '分享到 Linkedin';
+$LNG['share_email'] = '通过电子邮件分享';
+$LNG['share_sn'] = '分享到社交媒体';
+$LNG['share_url'] = '分享链接';
+$LNG['embed'] = '嵌入';
+$LNG['embed_code'] = '网页代码';
+$LNG['embed_error'] = '曲目不存在!';
 
 // LIKES //
-$LNG['already_liked'] = 'You\'ve already liked this track.';
-$LNG['already_disliked'] = 'You\'ve already disliked this track.';
-$LNG['like'] = 'Like';
-$LNG['dislike'] = 'Liked';
-$LNG['like_track_not_exist'] = 'This track doesn\'t exist or has been deleted.';
-$LNG['liked_this'] = 'liked this';
+$LNG['already_liked'] = '你已经点赞了';
+$LNG['already_disliked'] = '你已经取消点赞了';
+$LNG['like'] = '点赞';
+$LNG['dislike'] = '已点赞';
+$LNG['like_track_not_exist'] = '本曲目不存在或已被删除';
+$LNG['liked_this'] = '喜欢本音乐';//Like是喜欢还是相似 留待日后修改
 
 // MISC //
-$LNG['license_key'] = 'License Key';
-$LNG['change'] = 'Change';
+$LNG['license_key'] = '注册码';
+$LNG['change'] = '修改';
 $LNG['validate_license'] = 'Please validate your <strong>license key</strong> (<strong>purchase code</strong>) before continuing.';
 $LNG['from'] = 'From';
 $LNG['to'] = 'To';
