@@ -503,118 +503,118 @@ $LNG['admin_sub_image_profile'] = '个人资料主页封面和头像允许上传
 $LNG['admin_ttl_image_format'] = '主页图片格式';
 $LNG['admin_sub_image_format'] = '个人资料主页封面和头像允许上传的图像格式,仅有gif,png,jpg,jpeg可用,其他格式不被支持';
 
-$LNG['admin_ttl_cover_size'] = 'Track Cover Size';
-$LNG['admin_sub_cover_size'] = 'Image size allowed to upload for track covers (in MB)';
+$LNG['admin_ttl_cover_size'] = '音乐封面大小';
+$LNG['admin_sub_cover_size'] = '音乐封面允许上传的图片大小(MB)';
 
-$LNG['admin_ttl_cover_format'] = 'Track Cover Format';
-$LNG['admin_sub_cover_format'] = 'Image format allowed for upload for track covers, use only gif,png,jpg,jpeg other formats are not supported';
+$LNG['admin_ttl_cover_format'] = '音乐封面格式';
+$LNG['admin_sub_cover_format'] = '音乐封面允许上传的图像格式(仅支持gif,png,jpg,jpeg),其他格式不被支持';
 
-$LNG['admin_ttl_track_size'] = 'Track Size';
-$LNG['admin_sub_track_size'] = 'Track size allowed to upload (in MB)';
+$LNG['admin_ttl_track_size'] = '音乐大小';
+$LNG['admin_sub_track_size'] = '允许上传的音乐大小(MB)';
 
-$LNG['admin_ttl_track_format'] = 'Track Format';
-$LNG['admin_sub_track_format'] = 'Track format allowed for upload, use only mp3,m4a,mp4 other formats are not supported';
+$LNG['admin_ttl_track_format'] = '音乐格式';
+$LNG['admin_sub_track_format'] = '允许上传的音乐格式(仅支持mp3,m4a,mp4),其他格式不被支持';
 
-$LNG['admin_ttl_total_upload_size'] = 'Total Upload';
-$LNG['admin_sub_total_upload_size'] = 'Total track upload size allowed to upload by an user (in MB)';
+$LNG['admin_ttl_total_upload_size'] = '总上传大小';
+$LNG['admin_sub_total_upload_size'] = '每个用户所允许的最大上传大小(MB)';
 
-$LNG['admin_ttl_pro_track_size'] = 'Pro Track Size';
-$LNG['admin_sub_pro_track_size'] = 'Track size allowed to upload by pro users (in MB)';
+$LNG['admin_ttl_pro_track_size'] = '专业版音乐大小';
+$LNG['admin_sub_pro_track_size'] = '专业版用户允许上传的音乐大小(MB)';
 
-$LNG['admin_ttl_pro_total_size'] = 'Pro Total Upload';
-$LNG['admin_sub_pro_total_size'] = 'Total track upload size allowed to upload by pro users (in MB)';
+$LNG['admin_ttl_pro_total_size'] = '专业版总上传大小';
+$LNG['admin_sub_pro_total_size'] = '专业版用户所允许的最大上传大小(MB)';
 
-$LNG['admin_as3'] = 'Amazon S3 Storage';
-$LNG['admin_sub_as3'] = 'Enable the Amazon S3 Storage';
+$LNG['admin_as3'] = 'Amazon S3 储存';//专业术语不做翻译,以免引起歧义
+$LNG['admin_sub_as3'] = '启用 Amazon S3 储存';
 
-$LNG['admin_as3_key'] = 'Key';
-$LNG['admin_sub_as3_key'] = 'Amazon S3 Access Key ID';
+$LNG['admin_as3_key'] = 'KEY ID';
+$LNG['admin_sub_as3_key'] = 'Amazon S3 访问KEY ID';
 
-$LNG['admin_as3_secret'] = 'Secret Key';
-$LNG['admin_sub_as3_secret'] = 'Amazon S3 Secret Access Key';
+$LNG['admin_as3_secret'] = '密钥';
+$LNG['admin_sub_as3_secret'] = 'Amazon S3 访问密钥';
 
-$LNG['admin_as3_region'] = 'Region';
-$LNG['admin_sub_as3_region'] = 'Amazon S3 Region';
+$LNG['admin_as3_region'] = '区域';
+$LNG['admin_sub_as3_region'] = 'Amazon S3 区域';
 
-$LNG['admin_as3_bucket'] = 'Bucket';
-$LNG['admin_sub_as3_bucket'] = 'Amazon S3 Bucket Name';
+$LNG['admin_as3_bucket'] = '容器';//原文Bucket
+$LNG['admin_sub_as3_bucket'] = 'Amazon S3 容器名';
 
-$LNG['admin_ttl_fbapp'] = 'Facebook Login';
-$LNG['admin_sub_fbapp'] = 'Allow users to log-in using Facebook';
+$LNG['admin_ttl_fbapp'] = 'Facebook 登录';
+$LNG['admin_sub_fbapp'] = '允许用户使用Facebook登录';
 
 $LNG['admin_ttl_fbappid'] = 'App ID';
 $LNG['admin_sub_fbappid'] = 'Facebook App ID';
 
-$LNG['admin_ttl_fbappsecret'] = 'App Secret';
-$LNG['admin_sub_fbappsecret'] = 'Facebook App Secret';
+$LNG['admin_ttl_fbappsecret'] = 'App 密钥';
+$LNG['admin_sub_fbappsecret'] = 'Facebook App 密钥';
 
-$LNG['smtp_emails'] = 'SMTP Mails';
-$LNG['smtp_sub_emails'] = 'Enable sending emails trough SMTP';
+$LNG['smtp_emails'] = 'SMTP 邮件设置';
+$LNG['smtp_sub_emails'] = '启用SMTP邮件发送服务';
 
-$LNG['smtp_host'] = 'SMTP Host';
-$LNG['smtp_sub_host'] = 'The SMTP Host';
+$LNG['smtp_host'] = 'SMTP 主机';
+$LNG['smtp_sub_host'] = 'SMTP 主机域名或IP';
 
-$LNG['smtp_port'] = 'SMTP Port';
-$LNG['smtp_sub_port'] = 'The SMTP Port';
+$LNG['smtp_port'] = 'SMTP 端口';
+$LNG['smtp_sub_port'] = '主机上SMTP服务的端口号';
 
-$LNG['smtp_secure'] = 'SMTP Secure';
-$LNG['smtp_sub_secure'] = 'Enable SMTP Secure';
+$LNG['smtp_secure'] = 'SMTP 安全';
+$LNG['smtp_sub_secure'] = '启用SMTP安全设置';
 
-$LNG['smtp_auth'] = 'SMTP Authentication';
-$LNG['smtp_sub_auth'] = 'Enable SMTP Authentication';
+$LNG['smtp_auth'] = 'SMTP 认证';
+$LNG['smtp_sub_auth'] = '启用SMTP认证';
 
-$LNG['smtp_username'] = 'SMTP Username';
-$LNG['smtp_sub_username'] = 'The SMTP Username';
+$LNG['smtp_username'] = 'SMTP用户名';
+$LNG['smtp_sub_username'] = '您的SMTP用户名';
 
-$LNG['smtp_password'] = 'SMTP Password';
-$LNG['smtp_sub_password'] = 'The SMTP Password';
+$LNG['smtp_password'] = 'SMTP密码';
+$LNG['smtp_sub_password'] = '您的SMTP密码';
 
-$LNG['standard_accounts'] = 'Standard Accounts';
-$LNG['admin_ttl_ppapp'] = 'Pro Accounts';
-$LNG['admin_sub_ppapp'] = 'Enable Pro Accounts with PayPal';
+$LNG['standard_accounts'] = '标准账户';
+$LNG['admin_ttl_ppapp'] = '专业账户';
+$LNG['admin_sub_ppapp'] = '用Paypal来支付高级账户';//永远不会被封的最高级修改器
 
 $LNG['admin_ttl_ppclientid'] = 'PayPal Client ID';
 $LNG['admin_sub_ppclientid'] = 'PayPal Client ID';
 
-$LNG['admin_ttl_ppsecret'] = 'PayPal Secret';
-$LNG['admin_sub_ppsecret'] = 'PayPal Secret';
+$LNG['admin_ttl_ppsecret'] = 'PayPal 密钥';
+$LNG['admin_sub_ppsecret'] = 'PayPal 密钥';
 
-$LNG['admin_ttl_ppsand'] = 'PayPal Sandbox';
-$LNG['admin_sub_ppsand'] = 'PayPal sandbox for development mode';
+$LNG['admin_ttl_ppsand'] = 'PayPal 沙箱';
+$LNG['admin_sub_ppsand'] = '开发专用的Paypal沙箱模式';
 
-$LNG['admin_ttl_pro_plan_month'] = 'Month Plan';
-$LNG['admin_sub_pro_plan_month'] = 'Value of the monthly plan (e.g: 3.00 for 3 USD)';
+$LNG['admin_ttl_pro_plan_month'] = '月付';
+$LNG['admin_sub_pro_plan_month'] = '月付用户每月应付钱数(例如为3美元,则输入3.00)';
 
-$LNG['admin_ttl_pro_plan_year'] = 'Year Plan';
-$LNG['admin_sub_pro_plan_year'] = 'Value of the pro plan (e.g: 29.00 for 29 USD)';
+$LNG['admin_ttl_pro_plan_year'] = '年付';
+$LNG['admin_sub_pro_plan_year'] = '年付用户每年应付钱数(例如为12美元,则输入12.00)';
 
-$LNG['admin_ttl_currency'] = 'Currency';
-$LNG['admin_sub_currency'] = 'Currency type for the plans';
+$LNG['admin_ttl_currency'] = '货币类型';
+$LNG['admin_sub_currency'] = '付费用户应支付的货币类型';
 
-$LNG['admin_ttl_ad1'] = 'Ad Unit 1';
-$LNG['admin_sub_ad1'] = 'Advertisement Unit 1 (Bottom [Welcome Page])';
+$LNG['admin_ttl_ad1'] = '广告位1';
+$LNG['admin_sub_ad1'] = '广告位1(在欢迎页面的底部)';
 
-$LNG['admin_ttl_ad2'] = 'Ad Unit 2';
-$LNG['admin_sub_ad2'] = 'Advertisement Unit 2 (Sidebar [Explore Page])';
+$LNG['admin_ttl_ad2'] = '广告位2';
+$LNG['admin_sub_ad2'] = '广告位2(探索页面的侧边栏)';
 
-$LNG['admin_ttl_ad3'] = 'Ad Unit 3';
-$LNG['admin_sub_ad3'] = 'Advertisement Unit 3 (Sidebar [Stream Page])';
+$LNG['admin_ttl_ad3'] = '广告位3';
+$LNG['admin_sub_ad3'] = '广告位3 (流媒体页面的侧边栏)';
 
-$LNG['admin_ttl_ad4'] = 'Ad Unit 4';
-$LNG['admin_sub_ad4'] = 'Advertisement Unit 4 (Sidebar [Profile Page])';
+$LNG['admin_ttl_ad4'] = '广告位4';
+$LNG['admin_sub_ad4'] = '广告位4 (个人简介页面的侧边栏)';
 
-$LNG['admin_ttl_ad5'] = 'Ad Unit 5';
-$LNG['admin_sub_ad5'] = 'Advertisement Unit 5 (Sidebar [Track & Playlis Page])';
+$LNG['admin_ttl_ad5'] = '广告位5';
+$LNG['admin_sub_ad5'] = '广告位5 (音乐播放界面的侧边栏)';
 
-$LNG['admin_ttl_ad6'] = 'Ad Unit 6';
-$LNG['admin_sub_ad6'] = 'Advertisement Unit 6 (Sidebar [Search Page])';
+$LNG['admin_ttl_ad6'] = '广告位6';
+$LNG['admin_sub_ad6'] = '广告位(搜索页面的侧边栏)';
 
-$LNG['admin_ttl_edit_profile'] = 'Edit Profile';
+$LNG['admin_ttl_edit_profile'] = '编辑简介';
 
-$LNG['admin_ttl_delete_profile'] = 'Delete Profile';
+$LNG['admin_ttl_delete_profile'] = '删除简介';
 
-$LNG['admin_ttl_mail'] = 'Email';
-$LNG['admin_ttl_username'] = 'Username';
+$LNG['admin_ttl_mail'] = '邮箱';
+$LNG['admin_ttl_username'] = '用户名';
 $LNG['admin_ttl_id'] = 'ID'; // As in user ID
 
 $LNG['admin_ttl_notificationl'] = 'Likes Notifications';
