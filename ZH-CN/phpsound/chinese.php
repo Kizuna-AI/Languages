@@ -1,9 +1,13 @@
 <?php
+// 翻译于2020/4/13日结束 ver 1.0
+// 参与人员:Starx(Github SuzukiHonoka),Stardsut(Github StardustCN)
+// 本语言包禁止销售盈利,但不反对将其应用在收费站点上
+
 // Language Name
 $name = 'Chinese';
 
 // Language Author
-$author = 'Kizuna-AI Team on Github';
+$author = 'Kizuna-AI';
 
 // Language URL
 $url = 'https://github.com/SuzukiHonoka/Languages';
