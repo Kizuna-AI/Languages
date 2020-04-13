@@ -617,54 +617,54 @@ $LNG['admin_ttl_mail'] = '邮箱';
 $LNG['admin_ttl_username'] = '用户名';
 $LNG['admin_ttl_id'] = 'ID'; // As in user ID
 
-$LNG['admin_ttl_notificationl'] = 'Likes Notifications';
-$LNG['admin_sub_notificationl'] = 'Display alert and notifications for <strong>Likes</strong> (can be changed from user\'s settings)';
+$LNG['admin_ttl_notificationl'] = '点赞通知';
+$LNG['admin_sub_notificationl'] = '当有人<strong>喜欢</strong>的时候发送通知和提示(无法在用户设置里修改)';
 
-$LNG['admin_ttl_notificationc'] = 'Comments Notifications';
-$LNG['admin_sub_notificationc'] = 'Display alert and notifications for <strong>Comments</strong> (can be changed from user\'s settings)';
+$LNG['admin_ttl_notificationc'] = '评论通知';
+$LNG['admin_sub_notificationc'] = '当有人<strong>评论</strong>的时候发送通知和提示(无法在用户设置里修改)';
 
-$LNG['admin_ttl_notificationd'] = 'Chat Notifications';
-$LNG['admin_sub_notificationd'] = 'Display alert and notifications for <strong>Chats</strong> (can be changed from user\'s settings)';
+$LNG['admin_ttl_notificationd'] = '聊天通知';
+$LNG['admin_sub_notificationd'] = '当有人<strong>聊天</strong>的时候发送通知和提示(无法在用户设置里修改)';
 
-$LNG['admin_ttl_notificationf'] = 'Friends Notifications';
-$LNG['admin_sub_notificationf'] = 'Display alert and notifications for <strong>Friends Additions</strong> (can be changed from user\'s settings)';
+$LNG['admin_ttl_notificationf'] = '好友通知';
+$LNG['admin_sub_notificationf'] = '当有人<strong>添加好友</strong>的时候发送通知和提示(无法在用户设置里修改)';
 
-$LNG['admin_ttl_email_comment'] = 'Email on Comment';
-$LNG['admin_sub_email_comment'] = 'Enable sending emails when someone comments to a track';
+$LNG['admin_ttl_email_comment'] = '评论时发送邮件';
+$LNG['admin_sub_email_comment'] = '启用当有人评论音乐时发送邮件通知';
 
-$LNG['admin_ttl_email_like'] = 'Email on Like';
-$LNG['admin_sub_email_like'] = 'Enable sending emails when someone likes a track';
+$LNG['admin_ttl_email_like'] = '点赞时发送邮件';
+$LNG['admin_sub_email_like'] = '启用当有人喜欢音乐时发送邮件通知';
 
-$LNG['admin_ttl_email_new_friend'] = 'Email on New Friend';
-$LNG['admin_sub_email_new_friend'] = 'Enable sending emails when someone adds a friend';
+$LNG['admin_ttl_email_new_friend'] = '好友添加发送邮件';
+$LNG['admin_sub_email_new_friend'] = '启用当有人添加好友时发送邮件通知';
 
-$LNG['admin_ttl_wholiked'] = 'Who Liked';
-$LNG['admin_sub_wholiked'] = 'Display avatars of the users that liked a track';
+$LNG['admin_ttl_wholiked'] = '点赞名单';
+$LNG['admin_sub_wholiked'] = '显示给该音乐点赞的用户名';
 
-$LNG['admin_ttl_rperpage'] = 'Admin Panel';
-$LNG['admin_sub_rperpage'] = 'Results per page for Admin Manage pages';
+$LNG['admin_ttl_rperpage'] = '管理面板';
+$LNG['admin_sub_rperpage'] = '管理员面板的每页显示的条目数量';
 
-$LNG['admin_ttl_sperpage'] = 'Friends';
-$LNG['admin_sub_sperpage'] = 'Number of friends per page to be displayed (profile page)';
+$LNG['admin_ttl_sperpage'] = '好友';
+$LNG['admin_sub_sperpage'] = '简介页面每页显示的好友数量';
 
-$LNG['admin_ttl_aperip'] = 'Accounts';
-$LNG['admin_sub_aperip'] = 'Number of accounts allowed to register per IP (0 for unlimited)';
+$LNG['admin_ttl_aperip'] = '账户';
+$LNG['admin_sub_aperip'] = '每个IP所允许的最大注册账户数量(0为不限制)';
 
-$LNG['admin_ttl_ronline'] = 'Online Friends';
-$LNG['admin_sub_ronline'] = 'Number of online friends to be displayed on the Feed/Subscriptions page (sidebar).';
+$LNG['admin_ttl_ronline'] = '在线好友';
+$LNG['admin_sub_ronline'] = '在订阅界面的侧边栏展示的在线好友的数量';
 
-$LNG['admin_ttl_nperwidget'] = 'Dropdown Notifications';
-$LNG['admin_sub_nperwidget'] = 'Number of notifications to be shown per category (likes, comments, tracks)';
+$LNG['admin_ttl_nperwidget'] = '下拉通知';
+$LNG['admin_sub_nperwidget'] = '每个类别（喜欢,评论,音乐）要显示的通知数';
 
-$LNG['admin_sub_tracking'] = 'The analytics tracking code';
+$LNG['admin_sub_tracking'] = '流量统计JS代码';
 
-$LNG['page_title'] = 'Page Title';
-$LNG['page_url'] = 'Page URL';
-$LNG['public_page'] = 'Public Page';
-$LNG['page_content'] = 'Page Content';
-$LNG['create_page'] = 'Create Page';
-$LNG['email_title'] = 'Email Title';
-$LNG['email_content'] = 'Email Content';
+$LNG['page_title'] = '页面标题';
+$LNG['page_url'] = '页面链接';
+$LNG['public_page'] = '公开页面';
+$LNG['page_content'] = '页面内容';
+$LNG['create_page'] = '创建页面';
+$LNG['email_title'] = '邮件标题';
+$LNG['email_content'] = '邮件内容';
 
 $LNG['sub_page_title'] = 'The page title (supports translatable strings)';
 $LNG['sub_page_url'] = 'The page URL (no special characters)';
